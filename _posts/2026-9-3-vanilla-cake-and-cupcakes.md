@@ -31,7 +31,7 @@ Follow these simple steps to bake bakery-quality treats at home.
     Or 1 teaspoon (5mL) clear vanilla + 1/4 teaspoon almond extract (for that Bakery flavor)  
 
 **Baking Instructions**  
-1. Prep  
+1. Prep:  
     Preheat oven to 350 F (175 C).  
 **Layer cake:**  
     Prep two 8” cake pans by greasing sides and bottom with butter or vegetable spray and lining bottom with parchment paper. Grease or spray parchment.  
