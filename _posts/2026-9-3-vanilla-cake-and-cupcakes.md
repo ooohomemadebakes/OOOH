@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: default
 title: VANILLA CAKE AND CUPCAKES
 ---
 **VANILLA CAKE AND CUPCAKES**  
