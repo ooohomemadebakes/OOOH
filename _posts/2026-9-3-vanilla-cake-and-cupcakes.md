@@ -12,14 +12,16 @@ Follow these simple steps to bake bakery-quality treats at home.
 
 **What You Need:**  
 * 1 Package Vanilla Cake Mix.  
-    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
+    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.
+  
 **Equipment**  
 * Hand Mixer & Medium mixing bowl or Stand Mixer  
 * Spatula  
 * Standard 8-inch round cake pans  
     To make cupcakes, use a standard cupcake pan (12) with cupcake liners.  
     To make Sheet Cake, use metal 9"X13" rectangle sheet pan  
-* Parchment paper (or cupcake liners)  
+* Parchment paper (or cupcake liners)
+  
 **Wet Ingredients (To Add)**  
 * 1/2 cup, (1 stick, 113g) unsalted butter room temp, (see Baker's Tips)  
     Or 1/4 cup + 3 Tablespoon (87mL) vegetable oil (or any neutral flavored oil)  
