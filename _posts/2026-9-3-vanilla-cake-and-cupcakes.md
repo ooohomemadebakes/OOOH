@@ -2,7 +2,7 @@
 layout: default
 title: VANILLA CAKE AND CUPCAKES
 ---
-VANILLA CAKE AND CUPCAKES  
+**VANILLA CAKE AND CUPCAKES**  
 Thank you for purchasing a fresh dry mix batch from our bakery! 
 WAY better than a box mix.  
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
