@@ -3,25 +3,23 @@ layout: default
 title: VANILLA CAKE AND CUPCAKES
 ---
 VANILLA CAKE AND CUPCAKES  
-Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
+Thank you for purchasing a fresh dry mix batch from our bakery! 
 WAY better than a box mix.  
-Only uses one bowl, no mixer required.  
-Thank you for purchasing a fresh dry mix batch from our bakery!  
+Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
 ---
 Follow these simple steps to bake bakery-quality treats at home.  
 ---
-**What You Need:**  
-1 Package Vanilla Cake Mix.  
-    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
 
+**What You Need:**  
+* 1 Package Vanilla Cake Mix.  
+    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
 **Equipment**  
 * Hand Mixer & Medium mixing bowl or Stand Mixer  
 * Spatula  
 * Standard 8-inch round cake pans  
     To make cupcakes, use a standard cupcake pan (12) with cupcake liners.  
     To make Sheet Cake, use metal 9"X13" rectangle sheet pan  
-* Parchment paper (for cakes)  
----
+* Parchment paper (or cupcake liners)  
 **Wet Ingredients (To Add)**  
 * 1/2 cup, (1 stick, 113g) unsalted butter room temp, (see Baker's Tips)  
     Or 1/4 cup + 3 Tablespoon (87mL) vegetable oil (or any neutral flavored oil)  
@@ -31,7 +29,7 @@ Follow these simple steps to bake bakery-quality treats at home.
     Or 1 cup (227mL) whole milk, buttermilk, or unsweetened milk alternative (such as almond)  
 * 1 teaspoon (5mL) pure vanilla extract (Old fashioned Homemade flavor)  
     Or 1 teaspoon (5mL) clear vanilla + 1/4 teaspoon almond extract (for that Bakery flavor)  
----
+
 **Baking Instructions**  
 1. Prep  
     Preheat oven to 350 F (175 C).  
