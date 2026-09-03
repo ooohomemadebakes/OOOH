@@ -11,6 +11,9 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
-  
+
+# Specify a compatible rake version
+gem "rake", ">= 13.0"
+
 gemspec
 
