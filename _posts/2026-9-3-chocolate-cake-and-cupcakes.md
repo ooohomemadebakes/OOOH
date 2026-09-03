@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: post
 title: CHOCOLATE CAKE AND CUPCAKES
+subtitle: "A simple, delicious baking guide for all skill levels"
+date: 2026-09-03
+tags: [baking, chocolate, cake, cupcakes, beginner-friendly]
 ---
 **CHOCOLATE CAKE AND CUPCAKES**  
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes, 9"X13" Sheet Cake  
