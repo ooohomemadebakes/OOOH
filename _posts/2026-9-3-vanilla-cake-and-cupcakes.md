@@ -8,7 +8,6 @@ WAY better than a box mix.
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
 ---
 Follow these simple steps to bake bakery-quality treats at home.  
----
 
 **What You Need:**  
 * 1 Package Vanilla Cake Mix.  
