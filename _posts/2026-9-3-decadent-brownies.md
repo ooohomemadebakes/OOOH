@@ -8,7 +8,7 @@ tags: [baking, chocolate, brownies, brownie, bars, beginner-friendly]
 Thank you for purchasing a fresh dry mix batch from our bakery!  
 WAY better than a box mix.  
 Yields: 8-inch square pan = 9 2-1/2 inch bars (can be cut to any size)  
-    9x13 pan = 15-20 bars
+        9x13 pan = 15-20 bars  
 ---
 Follow these simple steps to bake bakery-quality treats at home.  
 
