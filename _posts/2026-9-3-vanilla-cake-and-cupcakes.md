@@ -60,7 +60,8 @@ Bake for 20-25 minutes and then test to see if they are done. They are done when
 When the cakes are done, place them on a cooling rack (or just on your counter if you don’t own a cooling rack) to cool to room temperature. Once cooled, they are ready for frosting. The layers can be stored in the fridge, individually wrapped in plastic wrap, for up to 5 days before frosting.  
 **Cupcakes**  
 Using a heaping 1/4 measuring cup, fill the cupcake liners two-thirds to three-quarters full.  
-<img src="{{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
+<img src="{{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }}" class="recipe-photo" style="max-width: 50%;" alt="Round pan with parchment">
+
 Do not overfill, or the cupcakes will overflow and sink in the middle. You will have leftover batter. After the first batch bakes, refill the cupcake pan with liners and leftover batter then bake those.  
 Bake for 25 to 30 minutes (20 minutes if using a convection oven). The cupcakes will double in size but will remain light in color. They are done when a toothpick comes out with some crumbs but not wet batter stuck to it. If they are not done, test again in two minutes. If they are still not done, test again in another two minutes.  
 **Sheet Cake:**  
@@ -68,7 +69,7 @@ Pour the batter into the prepped pan. Smooth out as evenly as possible. Tap the 
 Bake for 50 minutes to 1 hour, rotating pan halfway through. The cakes should be light in color and beginning to brown around the edges.The cake is done when the center is set and a toothpick comes out with some crumbs but not wet batter stuck to it. If not done, test again in two minutes.  
 Remove from the oven and allow the cake to cool completely in the pan. Once the cake has fully cooled, remove the cake from the pan by loosening the edges with a thin spatula or knife, and invert it onto a wire cooling rack or cutting board. (Place the rack or board upside down on top of the pan and carefully flip over.) Discard the parchment paper. Frost as desired.  
 This cake can easily be cut into bigger or smaller pieces. Cutting it into thirds, lengthwise, and fifths, crosswise, will make 15 generous servings. If you do fourths instead of thirds, you can get 20 servings.
-6. Storing:  
+7. Storing:  
 Unrefrigerated: Cover the frosted cake/cupcakes slices and store at room temperature. Keep the cake in a cool, dry spot.  
 Refrigerated: Place the frosted cake/cupcakes slices in the fridge uncovered for 15 minutes first so the outer layer of frosting hardens. Wrap loosely in plastic wrap or place it inside a tall cake box.  Let the cake/cupcakes sit on the counter for 30 to 60 minutes before serving for the best flavor.  
 Refrigerate cooled, unfrosted cake/cupcakes wrapped in plastic wrap, for up to 3-5 days before frosting.  
