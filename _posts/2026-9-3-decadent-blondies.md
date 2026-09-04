@@ -3,7 +3,7 @@ layout: post
 title: DECADENT BLONDIES
 subtitle: "A simple, delicious baking guide for all skill levels"
 date: 2026-09-03
-tags: [baking, chocolate, blondies, blondie, bars, beginner-friendly]
+tags: [baking, blondies, blondie, bars, beginner-friendly]
 ---
 Thank you for purchasing a fresh dry mix batch from our bakery!  
 WAY better than a box mix.  
