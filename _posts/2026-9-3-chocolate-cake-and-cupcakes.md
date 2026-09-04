@@ -60,7 +60,7 @@ Bake for 30-35 minutes and then test to see if they are done. The cakes should b
 When the cakes are done, place them on a cooling rack (or just on your counter if you don’t own a cooling rack) to cool to room temperature. Once cooled, Invert the pans onto a wire rack or cutting board. Carefully move layers 1 at a time to a serving plate or platter, frost as desired.  
 **Cupcakes:**  
 Using a heaping 1/4 measuring cup, fill the cupcake liners two-thirds to three-quarters full.  
-<img src="{{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }}" class="recipe-photo" style="max-width: 50%;" alt="Round pan with parchment">
+<img src="{{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }}" class="recipe-photo" style="max-width: 50%;" alt="Filling Cupcake Liners">
 Do not overfill, or the cupcakes will overflow and sink in the middle. You may have leftover batter. After the first batch bakes, refill the cupcake pan with liners and leftover batter, then bake those.  
 Bake for 22 to 28 minutes. The cupcakes will almost double in size. They are done when a toothpick comes out with some crumbs but not wet batter stuck to it. If they are not done, test again in two minutes. If they are still not done, test again in another two minutes.  
 Let the cupcakes cool in the pan then carefully remove them (preferably to a wire rack). Once cooled, frost as desired.  
