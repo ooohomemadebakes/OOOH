@@ -14,7 +14,8 @@ Follow these simple steps to bake bakery-quality treats at home.
 
 **What You Need:**  
 1 Package Blondie Mix. To double this recipe, use 2 packages    
-   Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
+    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
+    Optional Add-in Pouch (example: Chocolate Chips & Toasted Pecans)  
 ---
 **Equipment**  
 * Medium mixing bowl & Hand Mixer  
@@ -28,7 +29,7 @@ Follow these simple steps to bake bakery-quality treats at home.
     * or use 2/3 cup (75mL) vegetable oil (or any neutral flavored oil) + 2 Tbsp water  
 * Large Egg: 1, room temp (see Baker's Tip)  
 * Vanilla Extract: 1 tsp  
-* Optional Add-in Pouch (example: Chocolate Chips & Toasted Pecans)  
+
 ---
 **Baking Instructions**  
 1. Prep:  
