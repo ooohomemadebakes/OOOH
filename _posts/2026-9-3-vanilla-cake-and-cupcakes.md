@@ -43,10 +43,9 @@ Prep two 8” cake pans by greasing sides and bottom with butter or vegetable sp
     Line a standard cupcake pan (12) with cupcake liners (no butter or spray required).  
 **9 x 13 in. Pan**  
 Preheat Oven to 300°F (150°C), spray pan with vegetable spray, line with parchment and spray again.  
-    Trace pan’s base onto parchment paper, extending the lines on each side.  
+    ![Trace pan’s base onto parchment paper, extending the lines on each side.  
     Cut out the corner squares making a “cross” shape.  
-    Fold the paper and fit to the bottom of the pan.
-![Rectangle pan]<img src="{{ '/assets/img/rectangle-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangle pan with parchment">   
+    Fold the paper and fit to the bottom of the pan.]<img src="{{ '/assets/img/rectangle-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangle pan with parchment">   
 2. Mix:  
 Pour the entire contents of the Vanilla Cake Dry Mix Pouch to the mixing bowl.  
 3. Combine Wet Ingredients & Mix:  
