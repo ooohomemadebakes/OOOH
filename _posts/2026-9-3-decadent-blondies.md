@@ -22,16 +22,15 @@ Follow these simple steps to bake bakery-quality treats at home.
    or Stand mixer
 * Spatula  
 * Standard 8 by 8-inch square metal baking pan (see Baker's Tip)
-* To double this recipe, use a 9×13 pan, increase the baking time anywhere from 3-8 minutes.  
+* To double this recipe, use a 9×13 pan, increase the baking time anywhere from 3-8 minutes.
 * Parchment paper  
----
+  
 **Wet Ingredients (To Add)**  
 * Unsalted Butter: 1/2 cup (1 stick, 113 grams), room temp (See Baker's Tip)  
     * or use 2/3 cup (75mL) vegetable oil (or any neutral flavored oil) + 2 Tbsp water  
 * Large Egg: 1, room temp (see Baker's Tip)  
 * Vanilla Extract: 1 tsp  
 
----
 **Baking Instructions**  
 1. Prep:  
 Preheat your oven to 350°F (175°C). Line a square metal baking pan with parchment paper and create a “sling” with over hang . This will help with removal. Spray with nonstick cooking spray.  
