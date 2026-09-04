@@ -5,7 +5,7 @@ subtitle: "A simple, delicious baking guide for all skill levels"
 date: 2026-09-03
 tags: [baking, vanilla, cake, cupcakes, beginner-friendly]
 ---
-**VANILLA CAKE AND CUPCAKES**  
+# **VANILLA CAKE AND CUPCAKES**  
 Thank you for purchasing a fresh dry mix batch from our bakery!  
 WAY better than a box mix.  
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
@@ -39,7 +39,8 @@ Follow these simple steps to bake bakery-quality treats at home.
     Preheat oven to 350 F (175 C).  
 **Layer cake:**  
 Prep two 8” cake pans by greasing sides and bottom with butter or vegetable spray and lining bottom with parchment paper. Grease or spray parchment.
-![Round pan with parchment]({{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }})  
+![Round pan with parchment]({{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }})
+
 **Cupcakes:**  
     Line a standard cupcake pan (12) with cupcake liners (no butter or spray required).  
 **9 x 13 in. Pan**  
@@ -48,9 +49,10 @@ Preheat Oven to 300°F (150°C), spray pan with vegetable spray, line with parch
     Cut out the corner squares making a “cross” shape  
     Fold the paper and fit to the bottom of the pan]   
 ![Rectangle pan with parchment]({{ '/assets/img/Rectangle-pan-with-parchment.jpg' | relative_url }})  
-2. Mix:  
+
+3. Mix:  
 Pour the entire contents of the Vanilla Cake Dry Mix Pouch to the mixing bowl.  
-3. Combine Wet Ingredients & Mix:  
+4. Combine Wet Ingredients & Mix:  
 Add butter (or oil) and mix at medium-low speed for three minutes. You should end up with a very fine crumb texture.  
 Add eggs, sour cream (or substitutes), and vanilla extract to the flour mixture. Beat on medium speed until smooth and just combined (no dry cake mix streaks).  
 Be sure to scrape down the sides of the mixture as needed to make sure that everything is incorporated into the batter. The batter will be very loose and liquid.  
