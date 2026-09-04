@@ -38,15 +38,15 @@ Follow these simple steps to bake bakery-quality treats at home.
     Preheat oven to 350 F (175 C).  
 **Layer cake:**  
 Prep two 8” cake pans by greasing sides and bottom with butter or vegetable spray and lining bottom with parchment paper. Grease or spray parchment.
-![Round pan with parchment]<img src="{{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
+![Round pan]<img src="{{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
 **Cupcakes:**  
     Line a standard cupcake pan (12) with cupcake liners (no butter or spray required).  
 **9 x 13 in. Pan**  
 Preheat Oven to 300°F (150°C), spray pan with vegetable spray, line with parchment and spray again.  
-    Trace pan’s base onto parchment paper, extending the lines on each side  
-    Cut out the corner squares making a “cross” shape  
-    Fold the paper and fit to the bottom of the pan   
-![Rectangle pan with parchment]<img src="{{ '/assets/img/rectangle-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangle pan with parchment">   
+    Trace pan’s base onto parchment paper, extending the lines on each side.  
+    Cut out the corner squares making a “cross” shape.  
+    Fold the paper and fit to the bottom of the pan.
+![Rectangle pan]<img src="{{ '/assets/img/rectangle-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangle pan with parchment">   
 2. Mix:  
 Pour the entire contents of the Vanilla Cake Dry Mix Pouch to the mixing bowl.  
 3. Combine Wet Ingredients & Mix:  
