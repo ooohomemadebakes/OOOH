@@ -39,7 +39,6 @@ Follow these simple steps to bake bakery-quality treats at home.
 **Layer cake:**  
 Prep two 8” cake pans by greasing sides and bottom with butter or vegetable spray and lining bottom with parchment paper. Grease or spray parchment.
 ![Round pan with parchment]({{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }})  
-
 **Cupcakes:**  
     Line a standard cupcake pan (12) with cupcake liners (no butter or spray required).  
 **9 x 13 in. Pan**  
@@ -49,33 +48,29 @@ Preheat Oven to 300°F (150°C), spray pan with vegetable spray, line with parch
     Fold the paper and fit to the bottom of the pan]   
 ![Rectangle pan with parchment]({{ '/assets/img/Rectangle-pan-with-parchment.jpg' | relative_url }})  
 
-3. Mix:  
+2. Mix:  
 Pour the entire contents of the Vanilla Cake Dry Mix Pouch to the mixing bowl.  
-4. Combine Wet Ingredients & Mix:  
+3. Combine Wet Ingredients & Mix:  
 Add butter (or oil) and mix at medium-low speed for three minutes. You should end up with a very fine crumb texture.  
 Add eggs, sour cream (or substitutes), and vanilla extract to the flour mixture. Beat on medium speed until smooth and just combined (no dry cake mix streaks).  
 Be sure to scrape down the sides of the mixture as needed to make sure that everything is incorporated into the batter. The batter will be very loose and liquid.  
-5. Bake:  
+4. Bake:  
 **Layer cake**  
 Divide the batter evenly between the two prepped 8″ round cake pans.  
 Bake for 20-25 minutes and then test to see if they are done. They are done when a toothpick comes out without wet batter stuck to it. The cakes should be light in color, not golden brown. If they are not done, test again in two minutes. If they are still not done, test again in another two minutes.  
 When the cakes are done, place them on a cooling rack (or just on your counter if you don’t own a cooling rack) to cool to room temperature. Once cooled, they are ready for frosting. The layers can be stored in the fridge, individually wrapped in plastic wrap, for up to 5 days before frosting.  
 **Cupcakes**  
 Using a heaping 1/4 measuring cup, fill the cupcake liners two-thirds to three-quarters full.  
-![How much do I-fill cupcake liners.jpg]({{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }})
+![How much do I-fill cupcake liners.jpg]({{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }})  
 Do not overfill, or the cupcakes will overflow and sink in the middle. You will have leftover batter. After the first batch bakes, refill the cupcake pan with liners and leftover batter then bake those.  
 Bake for 25 to 30 minutes (20 minutes if using a convection oven). The cupcakes will double in size but will remain light in color. They are done when a toothpick comes out with some crumbs but not wet batter stuck to it. If they are not done, test again in two minutes. If they are still not done, test again in another two minutes.  
-6. Cool & Enjoy:  
-Let the cupcakes cool in the pan then carefully remove them (preferably to a wire rack). Once cooled, they are ready for frosting.  
-8. Storing:  
-The cooled cupcakes can be stored in the fridge, wrapped in plastic wrap, for up to 5 days before frosting.
 **Sheet Cake:**  
 Pour the batter into the prepped pan. Smooth out as evenly as possible. Tap the pan gently on the counter/table top to remove any large air bubbles.  
 Bake for 50 minutes to 1 hour, rotating pan halfway through. The cakes should be light in color and beginning to brown around the edges.The cake is done when the center is set and a toothpick comes out with some crumbs but not wet batter stuck to it. If not done, test again in two minutes.  
 Remove from the oven and allow the cake to cool completely in the pan. Once the cake has fully cooled, remove the cake from the pan by loosening the edges with a thin spatula or knife, and invert it onto a wire cooling rack or cutting board. (Place the rack or board upside down on top of the pan and carefully flip over.) Discard the parchment paper. Frost as desired.  
 This cake can easily be cut into bigger or smaller pieces. Cutting it into thirds, lengthwise, and fifths, crosswise, will make 15 generous servings. If you do fourths instead of thirds, you can get 20 servings.
-18. Storing:  
-19. Unrefrigerated: Cover the frosted cake/cupcakes slices and store at room temperature. Keep the cake in a cool, dry spot.  
+5. Storing:  
+Unrefrigerated: Cover the frosted cake/cupcakes slices and store at room temperature. Keep the cake in a cool, dry spot.  
 Refrigerated: Place the frosted cake/cupcakes slices in the fridge uncovered for 15 minutes first so the outer layer of frosting hardens. Wrap loosely in plastic wrap or place it inside a tall cake box.  Let the cake/cupcakes sit on the counter for 30 to 60 minutes before serving for the best flavor.  
 Refrigerate cooled, unfrosted cake/cupcakes wrapped in plastic wrap, for up to 3-5 days before frosting.  
 Freezing: Follow the same instructions for refrigeration. Store wrapped cake/cupcakes for up to 1 month. Defrost in the refrigerator overnight.  
