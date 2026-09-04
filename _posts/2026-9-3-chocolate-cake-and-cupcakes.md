@@ -6,18 +6,15 @@ date: 2026-09-03
 tags: [baking, chocolate, cake, cupcakes, beginner-friendly]
 ---
 **CHOCOLATE CAKE AND CUPCAKES**  
-Yields: 8” 2-layer Cake, 12 Standard Cupcakes, 9"X13" Sheet Cake  
-WAY better than a box mix.   
----
-Only uses one bowl, no mixer required.  
 Thank you for purchasing a fresh dry mix batch from our bakery!  
-Follow these simple steps to bake bakery-quality treats at home.  
+WAY better than a box mix.  
+Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake   
 ---
+Follow these simple steps to bake bakery-quality treats at home.  
 
 **What You Need:**  
 1 Package Chocolate Cake Mix.  
----
-Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
+    Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
 
 **Equipment**  
 * Hand Mixer & Medium mixing bowl or Stand Mixer  
@@ -25,17 +22,17 @@ Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.
 * Standard 8-inch round cake pans  
     To make cupcakes, use a standard cupcake pan (12) with cupcake liners.  
     To make Sheet Cake, use metal 9"X13" rectangle sheet pan
-* Parchment paper (for cakes)  
----
+* Parchment paper (for cupcake liners)  
+
 **Wet Ingredients (To Add)** 
 * 1/4 cup + 3 Tablespoons (87mL) vegetable oil (or any neutral flavored oil)  
     Or 1/2 cup, (1 stick, 113g) unsalted butter, melted  
 * 2 large eggs, room temperature (see Baker's Tips)  
 * 1 cup (8 oz, 227mL) full-fat sour cream + 3 Tablespoons water   
-    Or use same amounts plain yogurt + water  
     Or 1 cup (227mL) whole milk, buttermilk, or unsweetened milk alternative (such as almond)  
+    Or use same amounts plain yogurt + water  
 * 2 teaspoons (5mL) pure vanilla extract  
----
+
 **Baking Instructions**  
 1. Prep:  
     Preheat oven to 350 F (175 C).  
@@ -69,7 +66,7 @@ Do not overfill, or the cupcakes will overflow and sink in the middle. You may h
 12. Let the cupcakes cool in the pan then carefully remove them (preferably to a wire rack). Once cooled, frost as desired.  
 **Sheet Cake:**  
 13. Pour the batter into the prepped pan. Smooth out as evenly as possible. Tap the pan gently on the counter/table top to remove any large air bubbles.  
-14. Bake for 50 minutes to 1 hour, rotating pan halfway through. The cake is done when the center is set and a toothpick comes out with some crumbs but not wet batter stuck to it. If not done, test again in two minutes. If it is still not done, test again in another two minutes.  
+14. Bake for 50 minutes to 1 hour, rotating pan halfway through. The cake is done when the center is set and a toothpick comes out with some crumbs but not wet batter stuck to it. If not done, test again in two minutes.  
 15. Remove from the oven and allow the cake to cool completely in the pan. Once the cake has fully cooled, remove the cake from the pan by loosening the edges with a thin spatula or knife, and invert it onto a wire cooling rack or cutting board. (Place the rack or board upside down on top of the pan and carefully flip over.) Discard the parchment paper. Frost as desired.  
 17. This cake can easily be cut into bigger or smaller pieces. Cutting it into thirds, lengthwise, and fifths, crosswise, will make 15 generous servings. If you do fourths instead of thirds, you can get 20 servings.  
 18. Storing:  
