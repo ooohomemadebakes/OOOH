@@ -34,7 +34,6 @@ Follow these simple steps to bake bakery-quality treats at home.
 1. Prep:  
 Preheat your oven to 350°F (175°C). Line a square metal baking pan with parchment paper and create a “sling” with over hang . This will help with removal. Spray with nonstick cooking spray.  
 <img src="{{ '/assets/img/square-pan-with-parchment.png' | relative_url }}" class="recipe-photo" alt="Square pan with parchment">
-
 If using 9x13 pan - [Trace pan’s base onto parchment paper, extending the lines on each side.
     Cut out the corner squares making a “cross” shape.  
     Fold the paper and fit to the bottom of the pan.]  
