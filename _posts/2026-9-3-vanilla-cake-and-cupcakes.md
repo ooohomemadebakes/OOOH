@@ -38,28 +38,29 @@ Follow these simple steps to bake bakery-quality treats at home.
     Preheat oven to 350 F (175 C).  
 **Layer cake:**  
 Prep two 8” cake pans by greasing sides and bottom with butter or vegetable spray and lining bottom with parchment paper. Grease or spray parchment.
-![Round pan]<img src="{{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
+<img src="{{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
 **Cupcakes:**  
     Line a standard cupcake pan (12) with cupcake liners (no butter or spray required).  
 **9 x 13 in. Pan**  
 Preheat Oven to 300°F (150°C), spray pan with vegetable spray, line with parchment and spray again.  
-    Trace pan’s base onto parchment paper, extending the lines on each side.
+    [Trace pan’s base onto parchment paper, extending the lines on each side.
     Cut out the corner squares making a “cross” shape.  
-    Fold the paper and fit to the bottom of the pan.<img src="{{ '/assets/img/rectangle-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangle pan with parchment">   
-2. Mix:  
+    Fold the paper and fit to the bottom of the pan.]
+<img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">   
+3. Mix:  
 Pour the entire contents of the Vanilla Cake Dry Mix Pouch to the mixing bowl.  
-3. Combine Wet Ingredients & Mix:  
+4. Combine Wet Ingredients & Mix:  
 Add butter (or oil) and mix at medium-low speed for three minutes. You should end up with a very fine crumb texture.  
 Add eggs, sour cream (or substitutes), and vanilla extract to the flour mixture. Beat on medium speed until smooth and just combined (no dry cake mix streaks).  
 Be sure to scrape down the sides of the mixture as needed to make sure that everything is incorporated into the batter. The batter will be very loose and liquid.  
-4. Bake:  
+5. Bake:  
 **Layer cake**  
 Divide the batter evenly between the two prepped 8″ round cake pans.  
 Bake for 20-25 minutes and then test to see if they are done. They are done when a toothpick comes out without wet batter stuck to it. The cakes should be light in color, not golden brown. If they are not done, test again in two minutes. If they are still not done, test again in another two minutes.  
 When the cakes are done, place them on a cooling rack (or just on your counter if you don’t own a cooling rack) to cool to room temperature. Once cooled, they are ready for frosting. The layers can be stored in the fridge, individually wrapped in plastic wrap, for up to 5 days before frosting.  
 **Cupcakes**  
 Using a heaping 1/4 measuring cup, fill the cupcake liners two-thirds to three-quarters full.  
-![How much do I-fill cupcake liners.jpg]<img src="{{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
+<img src="{{ '/assets/img/how-much-do-i-fill-cupcake-liners.jpg' | relative_url }}" class="recipe-photo" alt="Round pan with parchment">  
 Do not overfill, or the cupcakes will overflow and sink in the middle. You will have leftover batter. After the first batch bakes, refill the cupcake pan with liners and leftover batter then bake those.  
 Bake for 25 to 30 minutes (20 minutes if using a convection oven). The cupcakes will double in size but will remain light in color. They are done when a toothpick comes out with some crumbs but not wet batter stuck to it. If they are not done, test again in two minutes. If they are still not done, test again in another two minutes.  
 **Sheet Cake:**  
