@@ -21,7 +21,8 @@ Follow these simple steps to bake bakery-quality treats at home.
 * Medium mixing bowl & Hand Mixer  
    or Stand mixer
 * Spatula  
-* Standard 8 by 8-inch square metal baking pan (see Baker's Tip) To double this recipe, use a 9×13 pan, increase the baking time anywhere from 3-8 minutes.  
+* Standard 8 by 8-inch square metal baking pan (see Baker's Tip)
+* To double this recipe, use a 9×13 pan, increase the baking time anywhere from 3-8 minutes.  
 * Parchment paper  
 ---
 **Wet Ingredients (To Add)**  
