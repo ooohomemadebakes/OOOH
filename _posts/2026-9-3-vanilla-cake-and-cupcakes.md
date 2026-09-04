@@ -5,7 +5,6 @@ subtitle: "A simple, delicious baking guide for all skill levels"
 date: 2026-09-03
 tags: [baking, vanilla, cake, cupcakes, beginner-friendly]
 ---
-layout: post
 Thank you for purchasing a fresh dry mix batch from our bakery!  
 WAY better than a box mix.  
 Yields: 8” 2-layer Cake, 12 Standard Cupcakes,  9"X13" Sheet Cake  
