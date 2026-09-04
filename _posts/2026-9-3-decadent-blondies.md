@@ -38,18 +38,18 @@ If using 9x13 pan - [Trace pan’s base onto parchment paper, extending the line
     Cut out the corner squares making a “cross” shape.  
     Fold the paper and fit to the bottom of the pan.]  
 <img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">   
-3. Mix Wet Ingredients:  
+2. Mix Wet Ingredients:  
 Add room temp butter to a mixing bowl and mix on medium speed until light and fluffy, for about 2 minutes. (if using oil and water, add and mix together for 20-30 seconds.) Mix in the eggs and vanilla until smooth.  
-4. Combine Mix:  
+3. Combine Mix:  
 Pour the entire contents of the Blondie Dry Mix Pouch into the bowl. Fold dry ingredients in with a spatula until just combined and no dry flour remains. Do not over mix.  
-5. Fold in Add-ins:  
+4. Fold in Add-ins:  
 Stir in your optional add-in pouch until evenly distributed throughout the dough.  
-6. Bake:  
+5. Bake:  
 Pour Blondie batter into the prepared pan and spread evenly.  
 Place in the oven and bake for 30-35 minutes, or until the blondies are golden brown and set (use a cake tester, thin blade knife or toothpick inserted into the center. Should see moist crumbs attached, not wet batter). Do not over bake.  
-7. Cool & Enjoy:  
+6. Cool & Enjoy:  
 For best texture and taste, allow the Blondies to cool to room temperature fully before slicing and serving. Use the parchment paper sling to carefully remove the blondies to a serving plate or cutting board. Slice into desired sized bars.  
-8. Storing:  
+7. Storing:  
 Room Temperature & Fridge: Store in an airtight container for up to 3 days at room temperature or up to 5 days in the fridge.  
 Freezer: Wrap the cooled whole slab or individual slices of Blondies in plastic wrap and place inside an airtight container. Store in freezer for up to 3 months. Thaw overnight in the fridge, or for a couple hours at room temperature, before serving.  
 ---
