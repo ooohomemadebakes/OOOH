@@ -46,7 +46,7 @@ Preheat Oven to 300°F (150°C), spray pan with vegetable spray, line with parch
     [Trace pan’s base onto parchment paper, extending the lines on each side  
     Cut out the corner squares making a “cross” shape  
     Fold the paper and fit to the bottom of the pan]   
-![Rectangle pan with parchment]({{ '/assets/img/Rectangle-pan-with-parchment.jpg' | relative_url }})  
+![Rectangle pan with parchment]({{ '/assets/img/rectangle-pan-with-parchment.jpg' | relative_url }})  
 
 2. Mix:  
 Pour the entire contents of the Vanilla Cake Dry Mix Pouch to the mixing bowl.  
