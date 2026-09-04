@@ -39,7 +39,7 @@ Follow these simple steps to bake bakery-quality treats at home.
     Preheat oven to 350 F (175 C).  
 **Layer cake:**  
 Prep two 8” cake pans by greasing sides and bottom with butter or vegetable spray and lining bottom with parchment paper. Grease or spray parchment.
-![Round pan with parchment]({{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }})
+![Round pan with parchment]({{ '/assets/img/round-pan-with-parchment.jpg' | relative_url }})  
 **Cupcakes:**  
     Line a standard cupcake pan (12) with cupcake liners (no butter or spray required).  
 **9 x 13 in. Pan**  
