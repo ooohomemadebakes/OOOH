@@ -1124,3 +1124,20 @@ pre {
     display: inline-block;
   }
 }
+
+/* Increase the navbar avatar/logo size */
+.navbar-custom .avatar-container {
+    width: 70px;  /* Default theme size is usually 50px */
+    height: 70px;
+}
+
+.navbar-custom .avatar-container .avatar-img {
+    width: 70px;
+    height: 70px;
+}
+
+/* Optional: Adjust navbar spacing if your logo pushes text down */
+.navbar-custom .navbar-brand {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
