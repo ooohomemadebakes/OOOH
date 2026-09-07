@@ -16,7 +16,14 @@ Follow these simple steps to bake bakery-quality treats at home.
 * 1 Package Brownie Mix. To double this recipe, use 2 packages.  
     Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
     Optional Add-ins (chocolate, nuts, candies, etc.)    
-
+<!--For the brownies dry mix:  
+1 1/4 cups (249 grams) granulated sugar 
+1/2 cup (56 grams) Dutch processed cocoa powder  
+3/41 cup (90 grams) all-purpose flour 
+1 Tablespoon (6g) whole milk powder  
+1 tablespoon (7g) cornstarch  
+1/4 teaspoon fine sea salt  
+1/2 cup (85 grams) semisweet chocolate chips -->
 **Equipment**  
 * Medium mixing bowl  
 * Spatula  
