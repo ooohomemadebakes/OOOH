@@ -23,7 +23,7 @@ Follow these simple steps to bake bakery-quality treats at home.
 1 Tablespoon (6g) whole milk powder  
 1 tablespoon (7g) cornstarch  
 1/4 teaspoon fine sea salt  
-1/2 cup (85 grams) semisweet chocolate chips -->
+1/2 cup (85 grams) semisweet chocolate chips -->  
 **Equipment**  
 * Medium mixing bowl  
 * Spatula  
