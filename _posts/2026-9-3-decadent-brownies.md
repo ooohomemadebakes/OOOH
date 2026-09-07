@@ -25,10 +25,10 @@ Follow these simple steps to bake bakery-quality treats at home.
 * Parchment paper  
 
 **Wet Ingredients (To Add)** 
-* Unsalted Butter: 1/3 cup (5 Tbsp, 71 grams), microwave for about 1 minute, or until the butter is melted and slightly cooled  
+* Unsalted Butter: 1/2 cup (4 Tbsp, 56 grams), microwave for about 1 minute, or until the butter is melted and slightly cooled  
 * Large Eggs: 2, cold  
 * Vanilla Extract: 1 tsp  
-* Vegetable Oil: 1/3 cup (74 mL), or any neutral flavored oil  
+* Vegetable Oil: 1/2 cup (100 mL), or any neutral flavored oil  
 
 **Baking Instructions**  
 1. Prep:  
@@ -39,15 +39,15 @@ If using 9x13 pan - [Trace pan’s base onto parchment paper, extending the line
     Fold the paper and fit to the bottom of the pan.]  
 <img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">   
 2 Mix Wet Ingredients:  
-Transfer melted butter to a mixing bowl and add the eggs, stir vigorously with a spatula for 1 minute. Stir in the vanilla and oil until smooth.
+Transfer melted butter to a mixing bowl and add the eggs. Whisk or stir with a spatula vigorously for 1 minute. Stir in the vanilla and oil until smooth.
 3. Combine Mix:  
-Pour the entire contents of the Brownie Dry Mix Pouch into the bowl. Stir until just combined and no dry flour remains. Do not over mix.  
+With a spatula, add the entire contents of the Brownie Dry Mix Pouch into the bowl. Stir until just combined and no dry flour remains. Do not over mix.  
 4. Fold in Add-ins:  
-Stir in your optional add-in pouch until evenly distributed throughout the dough.  
+Stir in your optional add-in pouch until evenly distributed throughout the dough. Batter will be thick.  
 5. Bake:  
-Pour brownie batter into the prepared pan and spread evenly. Place in the oven and bake for 30 minutes, or until the brownies are set (use a cake tester, thin blade knife or toothpick inserted into the center. Should see moist crumbs attached, not wet batter). Do not over bake.  
+Pour brownie batter into the prepared pan and spread evenly. Place in the oven and bake for 35-40 minutes, or until the brownies are set (use a cake tester, thin blade knife or toothpick inserted into the center. Should see moist crumbs attached, not wet batter). Do not over bake.  
 6. Cool & Enjoy:  
-For best texture and taste, allow the brownies to cool to room temperature fully before slicing and serving. Use the parchment paper sling to carefully remove the brownies to a serving plate or cutting board. Slice into desired sized bars.  
+For best texture and taste, allow the brownies to <u>cool to room temperature fully</u> before slicing and serving. Use the parchment paper sling to carefully remove the brownies to a serving plate or cutting board. Slice into desired sized bars.  
 7. Serving:  
 Brownies will be gooey when served warm, chewy at room temp, and fudgy when served chilled.  
 8. Storing:  
