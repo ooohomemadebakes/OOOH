@@ -1,6 +1,3 @@
-#
-# 
-#
 ---
 layout: post
 title: VANILLA CAKE AND CUPCAKES
