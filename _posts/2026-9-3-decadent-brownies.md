@@ -47,7 +47,7 @@ Stir in your optional add-in pouch until evenly distributed throughout the dough
 5. Bake:  
 Pour brownie batter into the prepared pan and spread evenly. Place in the oven and bake for 35-40 minutes, or until the brownies are set (use a cake tester, thin blade knife or toothpick inserted into the center. Should see moist crumbs attached, not wet batter). Do not over bake.  
 6. Cool & Enjoy:  
-For best texture and taste, allow the brownies to <u>cool to room temperature fully</u> before slicing and serving. Use the parchment paper sling to carefully remove the brownies to a serving plate or cutting board. Slice into desired sized bars.  
+For best texture and taste, allow the brownies to **cool to room temperature fully** before slicing and serving. Use the parchment paper sling to carefully remove the brownies to a serving plate or cutting board. Slice into desired sized bars.  
 7. Serving:  
 Brownies will be gooey when served warm, chewy at room temp, and fudgy when served chilled.  
 8. Storing:  
