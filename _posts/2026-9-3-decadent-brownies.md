@@ -2,7 +2,7 @@
 layout: post
 title: DECADENT BROWNIES
 subtitle: "A simple, delicious baking guide for all skill levels"
-date: 2026-09-03
+date: 2026-09-17
 tags: [baking, chocolate, brownies, brownie, bars, beginner-friendly]
 ---
 Thank you for purchasing a fresh dry mix batch from our bakery!  
