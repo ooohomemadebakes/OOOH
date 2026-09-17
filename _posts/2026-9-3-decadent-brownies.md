@@ -32,10 +32,10 @@ Follow these simple steps to bake bakery-quality treats at home.
 * Parchment paper  
 
 **Wet Ingredients (To Add)** 
-* Unsalted Butter: 1/2 cup (4 Tbsp, 56 grams), microwave for about 1 minute, or until the butter is melted and slightly cooled  
+* Unsalted Butter: 1/4 cup (4 Tbsp, 56 grams), microwave for about 1 minute, or until the butter is melted and slightly cooled  
 * Large Eggs: 2, cold  
 * Vanilla Extract: 1 tsp  
-* Vegetable Oil: 1/2 cup (100 mL), or any neutral flavored oil  
+* Vegetable Oil: 1/4 cup (500 mL), or any neutral flavored oil  
 
 **Baking Instructions**  
 1. Prep:  
