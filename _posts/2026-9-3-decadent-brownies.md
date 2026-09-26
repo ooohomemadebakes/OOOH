@@ -49,6 +49,7 @@ Preheat your oven to 350°F. Lightly spray or grease the bottom of an 8 by 8-inc
     Cut out the corner squares making a “cross” shape.  
     Fold the paper and fit to the bottom of the pan.]  
 <img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">   
+
 2. Mix Wet Ingredients:  
 Add the butter to a small microwave-safe bowl. Microwave for about 1 minute, or until the butter is melted. Let cool slightly. In a mixing bowl, add the eggs and mix on high or whisk vigorously for 1 minute. On high speed, mix in the butter and vanilla for a minute.  
 3. Combine Mix:  
