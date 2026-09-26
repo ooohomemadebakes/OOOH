@@ -43,12 +43,13 @@ Follow these simple steps to bake bakery-quality treats at home.
 
 **Baking Instructions**  
 1. Prep:  
-Preheat your oven to 350°F. Lightly spray or grease the bottom of an 8 by 8-inch metal pan**. Then line with parchment paper and create a “sling”  with over hang . This will help with removal. Lightly spray pan  sides with nonstick cooking spray.  
+Preheat your oven to 350°F. Lightly spray or grease the bottom of an 8 by 8-inch metal pan**. Then line with parchment paper and create a “sling”  with over hang . This will help with removal. Lightly spray pan sides with nonstick cooking spray.  
 <img src="{{ '/assets/img/square-pan-with-parchment.png' | relative_url }}" class="recipe-photo" alt="Square pan with parchment">  
 
-*If using 9x13 pan - [Trace pan’s base onto parchment paper, extending the lines on each side.
-    Cut out the corner squares making a “cross” shape.  
-    Fold the paper and fit to the bottom of the pan.]  
+*If using 9x13 pan  
+[Trace pan’s base onto parchment paper, extending the lines on each side.  
+Cut out the corner squares making a “cross” shape.  
+Fold the paper and fit to the bottom of the pan.]  
 <img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">  
 
 2. Mix Wet Ingredients:  
