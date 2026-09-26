@@ -13,7 +13,7 @@ Yields: 8-inch square pan = 9 2-1/2 inch bars (can be cut to any size)
 Follow these simple steps to bake bakery-quality treats at home.  
 
 **What You Need:**  
-* 1 Package Brownie Mix. To double this recipe, use 2 packages.  
+* 1 Package Brownie Mix. (To double this recipe, use 2 packages.)  
     Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
     Optional Add-ins (chocolate, nuts, candies, etc.)    
 <!--For the brownies dry mix:  
