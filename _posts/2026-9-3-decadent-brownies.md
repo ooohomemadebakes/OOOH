@@ -17,13 +17,16 @@ Follow these simple steps to bake bakery-quality treats at home.
     Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
     Optional Add-ins (chocolate, nuts, candies, etc.)    
 <!--For the brownies dry mix:  
-1 1/4 cups (249 grams) granulated sugar 
-1/2 cup (56 grams) Dutch processed cocoa powder  
-3/41 cup (90 grams) all-purpose flour 
+1 cup (198 grams) granulated sugar 
+1/2 cup (80 grams) Dutch processed cocoa powder  
+2/3 cup (79 grams) all-purpose flour 
 1 Tablespoon (6g) whole milk powder  
 1 tablespoon (7g) cornstarch  
+1 teaspoon espresso powder 
+½ tsp cream of tartar 
+¼ tsp baking soda 
 1/4 teaspoon fine sea salt  
-1/2 cup (85 grams) semisweet chocolate chips -->  
+60g semi-sweet chocolate chips  -->  
 **Equipment**  
 * Medium mixing bowl  
 * Spatula  
@@ -34,10 +37,9 @@ Follow these simple steps to bake bakery-quality treats at home.
 *Optional add-ins: ½ cup, (85g) nuts, candies, cookie bits, etc.  
 
 **Wet Ingredients (To Add)** 
-* Unsalted Butter: 1/4 cup (4 Tbsp, 56 grams), melted and slightly cooled  
+* Unsalted Butter: 2/3 cup (10 Tbsp, 141 grams), melted and slightly cooled  
 * Large Eggs: 2 whole + 1 egg white  
-* Vanilla Extract: 2 tsp  
-* Vegetable Oil: 1/4 cup (50 mL), or any neutral flavored oil  
+* Vanilla Extract: 2 tsp   
 
 **Baking Instructions**  
 1. Prep:  
@@ -48,9 +50,9 @@ Preheat your oven to 350°F. Lightly spray or grease the bottom of an 8 by 8-inc
     Fold the paper and fit to the bottom of the pan.]  
 <img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">   
 2 Mix Wet Ingredients:  
-Add the butter to a small microwave-safe bowl. Microwave for about 1 minute, or until the butter is melted. Let cool slightly. In a mixing bowl, add the eggs and mix on high or whisk vigorously for 1 minute. On high speed, mix in the butter for a minute. Add and mix in the vanilla and oil for about a minute.
+Add the butter to a small microwave-safe bowl. Microwave for about 1 minute, or until the butter is melted. Let cool slightly. In a mixing bowl, add the eggs and mix on high or whisk vigorously for 1 minute. On high speed, mix in the butter and vanilla for a minute.  
 3. Combine Mix:  
-Add in the Brownie mix. Mix on medium speed until well combined and no dry mix remains. Stir in any extra add-ins, if using, with a rubber spatula.  
+Add in the Brownie mix. Mix on medium speed until well combined and no dry mix remains. Scrape down sides and bottom of bowl with a spatula as needed. Stir in any extra add-ins, if using, with a spatula.  
 4. Fold in Add-ins:  
 Stir in your optional add-in pouch until evenly distributed throughout the dough. Batter will be thick.  
 5. Bake:  
