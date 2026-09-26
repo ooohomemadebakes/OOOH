@@ -31,28 +31,30 @@ Follow these simple steps to bake bakery-quality treats at home.
 * To double this recipe, use a 9×13 pan, increase the baking time anywhere from 3-8 minutes.  
 * Parchment paper  
 
+*Optional add-ins: ½ cup, (85g) nuts, candies, cookie bits, etc.  
+
 **Wet Ingredients (To Add)** 
-* Unsalted Butter: 1/4 cup (4 Tbsp, 56 grams), microwave for about 1 minute, or until the butter is melted and slightly cooled  
-* Large Eggs: 2, cold  
-* Vanilla Extract: 1 tsp  
-* Vegetable Oil: 1/4 cup (500 mL), or any neutral flavored oil  
+* Unsalted Butter: 1/4 cup (4 Tbsp, 56 grams), melted and slightly cooled  
+* Large Eggs: 2 whole + 1 egg white  
+* Vanilla Extract: 2 tsp  
+* Vegetable Oil: 1/4 cup (50 mL), or any neutral flavored oil  
 
 **Baking Instructions**  
 1. Prep:  
-Preheat your oven to 325°F (165°C). Line a square metal baking pan with parchment paper and create a “sling” with over hang . This will help with removal. Spray with nonstick cooking spray.  
+Preheat your oven to 350°F. Lightly spray or grease the bottom of an 8 by 8-inch metal pan**. Then line with parchment paper and create a “sling”  with over hang . This will help with removal. Lightly spray pan  sides with nonstick cooking spray.  
 <img src="{{ '/assets/img/square-pan-with-parchment.png' | relative_url }}" class="recipe-photo" alt="Square pan with parchment">
-If using 9x13 pan - [Trace pan’s base onto parchment paper, extending the lines on each side.
+*If using 9x13 pan - [Trace pan’s base onto parchment paper, extending the lines on each side.
     Cut out the corner squares making a “cross” shape.  
     Fold the paper and fit to the bottom of the pan.]  
 <img src="{{ '/assets/img/rectangular-pan-with-parchment.jpg' | relative_url }}" class="recipe-photo" alt="Rectangular pan with parchment">   
 2 Mix Wet Ingredients:  
-Transfer melted butter to a mixing bowl and add the eggs. Whisk or stir with a spatula vigorously for 1 minute. Stir in the vanilla and oil until smooth.
+Add the butter to a small microwave-safe bowl. Microwave for about 1 minute, or until the butter is melted. Let cool slightly. In a mixing bowl, add the eggs and mix on high or whisk vigorously for 1 minute. On high speed, mix in the butter for a minute. Add and mix in the vanilla and oil for about a minute.
 3. Combine Mix:  
-With a spatula, add the entire contents of the Brownie Dry Mix Pouch into the bowl. Stir until just combined and no dry flour remains. Do not over mix.  
+Add in the Brownie mix. Mix on medium speed until well combined and no dry mix remains. Stir in any extra add-ins, if using, with a rubber spatula.  
 4. Fold in Add-ins:  
 Stir in your optional add-in pouch until evenly distributed throughout the dough. Batter will be thick.  
 5. Bake:  
-Pour brownie batter into the prepared pan and spread evenly. Place in the oven and bake for 35-40 minutes, or until the brownies are set (use a cake tester, thin blade knife or toothpick inserted into the center. Should see moist crumbs attached, not wet batter). Do not over bake.  
+Pour brownie batter into the prepared pan and spread evenly. Place in the oven and bake for 30 minutes, or until the brownies are set (use a cake tester, thin blade knife or toothpick inserted into the center. Should see moist crumbs attached, not wet batter). Do not over bake.  
 6. Cool & Enjoy:  
 For best texture and taste, allow the brownies to **cool to room temperature fully** before slicing and serving. Use the parchment paper sling to carefully remove the brownies to a serving plate or cutting board. Slice into desired sized bars.  
 7. Serving:  
