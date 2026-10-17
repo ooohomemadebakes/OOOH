@@ -19,7 +19,7 @@ Follow these simple steps to bake bakery-quality treats at home.
 **Equipment**  
 * Hand Mixer & Medium mixing bowl or Stand Mixer  
 * Spatula  
-* Standard 8-inch round cake pans  
+* 2 Standard 8-inch round cake pans  
     To make cupcakes, use a standard cupcake pan (12) with cupcake liners.  
     To make Sheet Cake, use metal 9"X13" rectangle sheet pan
 * Parchment paper (for cupcake liners)  
