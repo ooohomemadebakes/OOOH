@@ -11,10 +11,10 @@ Yields: 24 Cookies
 ---
 Follow these simple steps to bake bakery-quality treats at home.  
 
+---
 **What You Need:**  
 1 Package Chocolate Chip Cookie Mix.  
     Base Dry Mix includes: Flour, Sugars, Leavening, Salt, etc.  
----
 **Equipment**  
 * Medium mixing bowl & Hand Mixer  
    or Stand mixer  
