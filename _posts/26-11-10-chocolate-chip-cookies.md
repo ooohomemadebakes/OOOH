@@ -38,7 +38,7 @@ Add the entire contents of the Chocolate Chip Cookie Mix Pouch into the bowl. Mi
 4. Make the cookies:  
 Use a medium sized cookie or ice cream scoop (about 2-tablespoon, 40g), or use your hands and roll the dough into 2 inch balls (about 3 fingers width). But do not roll them into perfect spheres.  
 Shape them into tall, vertical cylinders or logs and stand them up about 2 inches apart on the parchment paper. This will yield chewy centers and crispy edges.  
-<img src="{{ '/assets/img/shaping-cookies.jpg' | relative_url }}" class="recipe-photo" alt="Shaping Cookies"> 
+<img src="{{ '/assets/img/shaping-cookies.jpg' | relative_url }}" class="recipe-photo" alt="Shaping Cookies">  
 5. Bake:  
 Place pan in the oven and bake for 11-14 minutes.  
 6. Cool & Enjoy:  
