@@ -42,10 +42,10 @@ Shape them into tall, vertical cylinders or logs and stand them up about 2 inche
 5. Bake:  
 Place pan in the oven and bake for 11-14 minutes.  
 6. Cool & Enjoy:  
-Remove from the oven, let cool for 10 minutes on the baking sheet, then transfer to a cooling rack.   
+Remove from the oven, let cool for 10 minutes on the baking sheet, then transfer to a cooling rack.  
 7. Storing:
 Cookie Dough: Store in the refrigerator for up to 24 hours. Let sit for about 15 minutes at room temp before shaping. Store in the freezer in an airtight container for up to 3 months.
-Thaw in the fridge overnight.
+Thaw in the fridge overnight.  
 Baked Cookies: Store in an airtight container for up to 5 days at room temperature.  
 Freezer: Place cookies inside an airtight container. Store in freezer for up to 3 months. Thaw overnight in the fridge, or for a couple hours at room temperature, before serving.  
 ---
