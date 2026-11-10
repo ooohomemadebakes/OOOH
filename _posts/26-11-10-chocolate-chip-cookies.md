@@ -34,12 +34,12 @@ Preheat your oven to 325°F (160°C). Line a large cookie sheet or sheet pan wit
 Add room temp butter to a mixing bowl and mix on medium speed until light and fluffy, for about 2 minutes. Mix in the eggs and vanilla until smooth.  
 3. Combine Mix:  
 Add the entire contents of the Chocolate Chip Cookie Mix Pouch into the bowl. Mix dry ingredients in at low speed or with a spatula until just combined and no dry flour remains. Do not over mix.  
-4. Nake the cookies:  
+4. Make the cookies:  
 Use a medium sized cookie or ice cream scoop (about 2-tablespoon, 40g), or use your hands and roll the dough into 2 inch balls (about 3 fingers width). But do not roll them into perfect spheres.  
-Shape them into tall, vertical cylinders or logs and place on each parchment paper, leaving enough space in between each of them. This will yield chewy centers and crispy edges.  
+Shape them into tall, vertical cylinders or logs and stand them up about 2 inches apart on the parchment paper. This will yield chewy centers and crispy edges.  
 <img src="{{ '/assets/img/shaping-cookies.jpg' | relative_url }}" class="recipe-photo" alt="Shaping Cookies"> 
 5. Bake:  
-Place cookies on pan about 2 inches apart and bake for 11-14 minutes.  
+Place pan in the oven and bake for 11-14 minutes.  
 6. Cool & Enjoy:  
 Remove from the oven, let cool for 10 minutes on the baking sheet, then transfer to a cooling rack.   
 7. Storing:  
