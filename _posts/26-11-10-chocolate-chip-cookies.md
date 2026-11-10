@@ -25,7 +25,7 @@ Follow these simple steps to bake bakery-quality treats at home.
 **Wet Ingredients (To Add)**  
 * Unsalted Butter: 3/4 cup (1 1/2 sticks, 170 grams), room temp (See Baker's Tip)  
 * Large Eggs: 2, room temp (see Baker's Tip)  
-* Vanilla Extract: 2 tsp, (9 mL)  
+* Vanilla Extract: 2 tsp (9 mL)  
 
 **Baking Instructions**  
 1. Prep:  
@@ -33,7 +33,7 @@ Preheat your oven to 325°F (160°C). Line a large cookie sheet or sheet pan wit
 2. Mix Wet Ingredients:  
 Add room temp butter to a mixing bowl and mix on medium speed until light and fluffy, for about 2 minutes. Mix in the eggs and vanilla until smooth.  
 3. Combine Mix:  
-Add the entire contents of the Chocolate Chip Cookie Mix Pouch into the bowl. Mix dry ingredients in at low speed or with a spatula until just combined and no dry flour remains. Do not over mix.  
+Add the entire contents of the Chocolate Chip Cookie Mix Pouch into the bowl. Mix in dry ingredients at low speed or with a spatula until just combined and no dry flour remains. Do not over mix.  
 4. Make the cookies:  
 Use a medium sized cookie or ice cream scoop (about 2-tablespoon, 40g), or use your hands and roll the dough into 2 inch balls (about 3 fingers width). But do not roll them into perfect spheres.  
 Shape them into tall, vertical cylinders or logs and stand them up about 2 inches apart on the parchment paper. This will yield chewy centers and crispy edges.  
@@ -42,8 +42,10 @@ Shape them into tall, vertical cylinders or logs and stand them up about 2 inche
 Place pan in the oven and bake for 11-14 minutes.  
 6. Cool & Enjoy:  
 Remove from the oven, let cool for 10 minutes on the baking sheet, then transfer to a cooling rack.   
-7. Storing:  
-Room Temperature & Fridge: Store in an airtight container for up to 3 days at room temperature or up to 5 days in the fridge.  
+7. Storing:
+Cookie Dough: Store in the refrigerator for up to 24 hours. Let sit for about 15 minutes at room temp before shaping. Store in the freezer in an airtight container for up to 3 months.
+Thaw in the fridge overnight.
+Baked Cookies: Store in an airtight container for up to 5 days at room temperature.  
 Freezer: Place cookies inside an airtight container. Store in freezer for up to 3 months. Thaw overnight in the fridge, or for a couple hours at room temperature, before serving.  
 ---
 > **Baker's Tips:**  
